@@ -5,6 +5,7 @@
   background-color: var(--menu-color);
   font-family: var(--font-montserrat);
   line-height: 19px;
+  z-index: 1000;
 }
 .container > header > nav {
   position: fixed;
@@ -18,7 +19,7 @@
   justify-content: space-between;
   color: white;
   padding: var(--padd);
-  box-shadow: 0 5px 10px black;
+  box-shadow: 0 0 10px black;
   position: relative;
 }
 .container > header > nav > .top_nav > .logo {
