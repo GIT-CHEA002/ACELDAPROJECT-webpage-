@@ -21,19 +21,19 @@
 }
 @keyframes Render {
   0% {
-    background-image: url(Aceleda/assets/img/banner-1.jpg);
+    background-image: url(/assets/img/banner-1.jpg);
     background-size: cover;
   }
   40% {
-    background-image: url(Aceleda/assets/img/banner-2.jpg);
+    background-image: url(/assets/img/banner-2.jpg);
     background-size: cover;
   }
   70% {
-    background-image: url(Aceleda/assets/img/banner-3.jpg);
+    background-image: url(/assets/img/banner-3.jpg);
     background-size: cover;
   }
   100% {
-    background-image: url(Aceleda/assets/img/banner-1.jpg);
+    background-image: url(/assets/img/banner-1.jpg);
     background-size: cover;
   }
 }
